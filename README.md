@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there Iam a Italo-Brazillian Software Developer <br>This is the place where I opensource code and try not to break things 🤣<br><br>🔭  I’m currently working on creating a AI MICRO SAAS<br>🌱  I’m currently learning Typescript and Node.js<br>💬  Ask me about anything related to HTML and CSS/Javascript/React/Typescript/Node.js<br>📫  How to reach me: brunogun1999@gmail.com or @iobrunovittoria<br>
+Hi there Iam a Italo-Brazillian Software Developer <br>This is the place where I opensource code and try not to break things 🤣<br><br>🔭  I’m currently working on creating a AI MICRO SAAS<br>💬  Ask me about anything related to HTML and CSS/Javascript/React/Typescript/Node.js<br>📫  How to reach me: brunogun1999@gmail.com or @iobrunovittoria<br>
 
 
 ## 🌐 Socials:
