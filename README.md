@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there Iam a Italo-Brazillian Software Engineer <br>This is the place where I opensource code and try not to break things 🤣<br><br>🔭  I’m currently working on creating a AI FINANCE BOT <br>💬  Ask me about anything related to Javascript and /React/Typescript/Next.js/Node.js/MySQL/NoSQL<br>📫  How to reach me: brunogun1999@gmail.com or @iobrunovittoria<br>
+Hi there Iam a Italo-Brazillian Software Engineer <br>This is the place where I opensource code and try not to break things 🤣<br><br>🔭  I’m currently working on creating a personal project AI FINANCE BOT <br>💬  Ask me about anything related to Javascript and /React/Typescript/Next.js/Node.js/MySQL/NoSQL<br>📫  How to reach me: brunogun1999@gmail.com or @iobrunovittoria<br>
 
 
 ## 🌐 Socials:
